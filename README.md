@@ -1,4 +1,4 @@
-[DEMO LINK](https://KrivorotkoYurii.github.io/todo-app/)
+[Click here to see DEMO LINK](https://KrivorotkoYurii.github.io/todo-app/)
 
 
 # React Todo Application
